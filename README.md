@@ -1,4 +1,8 @@
 # 🌿 EcoPulse — Air & Water Intelligence for India
+<img width="1340" height="611" alt="image" src="https://github.com/user-attachments/assets/f2d3d2c1-6d3d-4a56-9cea-b33ba9ffb414" />
+<img width="963" height="511" alt="image" src="https://github.com/user-attachments/assets/31000504-294c-46e0-b91b-02a2657175c5" />
+
+
 
 **Live Application:** [https://ecopulse-water-air.streamlit.app/](https://ecopulse-water-air.streamlit.app/)
 
