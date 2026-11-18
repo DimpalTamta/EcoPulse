@@ -1,5 +1,9 @@
 # 🌿 EcoPulse — Air & Water Intelligence for India
 
+**Live Application:** [https://ecopulse-water-air.streamlit.app/](https://ecopulse-water-air.streamlit.app/)
+
+**GitHub Repository:** [https://github.com/DimpalTamta/EcoPulse](https://github.com/DimpalTamta/EcoPulse)
+
 EcoPulse is an integrated environmental intelligence application that combines **air quality analysis, water quality monitoring, machine learning predictions, and interactive visualisations** for India.
 
 The project uses air quality data covering 26 cities (2015–July 2020) and river water quality data from CPCB monitoring stations (2012–2023).
@@ -9,14 +13,15 @@ Built using Python, Pandas, NumPy, Scikit-learn, Plotly, and Streamlit.
 ## 🚀 Run the Application Locally
 
 ### 1. Requirements
+
 - Python 3.11–3.13
 - pip
 
 ### 2. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
-cd EcoPulse-AI
+git clone https://github.com/DimpalTamta/EcoPulse.git
+cd EcoPulse
 ```
 
 ### 3. Create and activate a virtual environment
@@ -49,20 +54,11 @@ python -m streamlit run app/main.py
 
 > **Important:** Keep `scikit-learn==1.5.2` in `requirements.txt` because the saved air machine learning models were trained using this version.
 
-## ☁️ Deploy on Streamlit Community Cloud
+## ☁️ Live Deployment
 
-1. Push the project to a GitHub repository.
-2. Open [Streamlit Community Cloud](https://share.streamlit.io/).
-3. Sign in using your GitHub account.
-4. Select **Create app**.
-5. Choose your EcoPulse repository and the `main` branch.
-6. Set the main file path to:
+EcoPulse is deployed using **Streamlit Community Cloud**.
 
-   `app/main.py`
-
-7. Deploy the application.
-
-Streamlit will install the packages listed in `requirements.txt`.
+🌐 **[Open EcoPulse — Live Application](https://ecopulse-water-air.streamlit.app/)**
 
 ## 📊 Application Features
 
@@ -132,7 +128,7 @@ It is an analytical indicator developed for this project, not an official govern
 ## 📁 Project Structure
 
 ```text
-EcoPulse-AI/
+EcoPulse/
 │
 ├── .streamlit/
 │   └── config.toml
