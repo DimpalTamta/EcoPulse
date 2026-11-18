@@ -1,0 +1,4 @@
+Water_Cluster,Temperature (°C) Min,Temperature (°C) Max,Dissolved Oxygen (mg/L) Min,Dissolved Oxygen (mg/L) Max,pH Min,pH Max,Conductivity (µmho/cm) Min,Conductivity (µmho/cm) Max,BOD (mg/L) Min,BOD (mg/L) Max,Nitrate N (mg/L) Min,Nitrate N (mg/L) Max,Fecal Coliform (MPN/100ml) Min,Fecal Coliform (MPN/100ml) Max,Total Coliform (MPN/100ml) Min,Total Coliform (MPN/100ml) Max
+0,18.1,28.16,5.73,8.1,7.22,9.02,282.19,1244.0,2.49,6.51,13.07,32.0,3280.22,712465.17,8946.69,2624698.0
+1,,,0.0,4.8,7.17,8.53,,,4.67,64.0,,,90000.0,20000000000.0,200000.0,20000000000.0
+2,19.33,32.33,0.0,1.77,8.13,711.33,33.37,66.67,0.38,30.3,109333.33,196666.67,226666.67,313333.33,,

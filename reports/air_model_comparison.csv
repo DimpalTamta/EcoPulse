@@ -1,0 +1,6 @@
+Algorithm,MAE,RMSE,R2
+Multiple Linear Regression,22.61,36.05,0.2086
+Ridge Regression,22.1,35.57,0.2296
+Lasso Regression,19.74,30.95,0.4168
+Decision Tree,14.95,25.01,0.6191
+Random Forest,13.75,23.12,0.6744

@@ -1,0 +1,24 @@
+{
+    "model": "Random Forest",
+    "features": [
+        "Temperature (\u00b0C) Min",
+        "Temperature (\u00b0C) Max",
+        "Conductivity (\u00b5mho/cm) Min",
+        "Conductivity (\u00b5mho/cm) Max",
+        "Nitrate N (mg/L) Min",
+        "Nitrate N (mg/L) Max",
+        "Fecal Coliform (MPN/100ml) Min",
+        "Fecal Coliform (MPN/100ml) Max",
+        "Fecal Streptococci (MPN/100ml) Min",
+        "Fecal Streptococci (MPN/100ml) Max"
+    ],
+    "classes": [
+        "Class A criteria met",
+        "Class B criteria met",
+        "Class C criteria met"
+    ],
+    "input_format": "Numeric water-quality measurements",
+    "target": "Water Quality Screening Class",
+    "sklearn_version": "1.6.1",
+    "prediction_note": "The model predicts simplified CPCB criteria-based screening labels. These are not official water-quality certifications."
+}

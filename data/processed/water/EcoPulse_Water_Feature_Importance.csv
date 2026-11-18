@@ -1,0 +1,11 @@
+Feature,Importance
+Fecal Coliform (MPN/100ml) Max,0.3282170632728372
+Fecal Coliform (MPN/100ml) Min,0.16380130607328955
+Nitrate N (mg/L) Max,0.09393067723600872
+Conductivity (µmho/cm) Max,0.0919110026696695
+Conductivity (µmho/cm) Min,0.09039431120359881
+Temperature (°C) Min,0.06964624536971897
+Temperature (°C) Max,0.06720677361563726
+Nitrate N (mg/L) Min,0.06029176852881047
+Fecal Streptococci (MPN/100ml) Max,0.023677184911073505
+Fecal Streptococci (MPN/100ml) Min,0.01092366711935615
